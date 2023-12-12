@@ -1,7 +1,6 @@
-[![MasterHead](https://media.istockphoto.com/id/1169059259/vector/computer-games-development-concept-banner-header.jpg?s=170667a&w=0&k=20&c=1UhG9ADWsLno8zI_znuEAag72qGi5I81J_HxGOE5TDo=)]
+![MasterHead](https://media.istockphoto.com/id/1169059259/vector/computer-games-development-concept-banner-header.jpg?s=170667a&w=0&k=20&c=1UhG9ADWsLno8zI_znuEAag72qGi5I81J_HxGOE5TDo=)
 <h1 align="center">Hi 👋, I'm Selcuk Beysim</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria India</h3>
-(img align="right" alt="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selcukbeysim&label=Profile%20views&color=0e75b6&style=flat" alt="selcukbeysim" /> </p>
 
